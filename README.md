@@ -70,3 +70,20 @@ The dataset contains coffee trading transactions with the following fields:
 - Add SQL joins with additional tables such as suppliers or shipments
 - Expand the dataset with more transactions
 - Build a Power BI dashboard using the same data
+
+## Sample Query Outputs
+
+### Revenue by Country
+![Revenue](screenshots/Revenue by Country.png)
+
+### Profit by Country
+![Profit](screenshots/Profit by Country.png)
+
+### Monthly Revenue
+![Monthly](screenshots/Monthly Revenue.png)
+
+### Top Customers
+![Revenue](screenshots/Top Customers by revenue.png)
+
+### Average price
+![Type](screenshots/average price by type.png)
