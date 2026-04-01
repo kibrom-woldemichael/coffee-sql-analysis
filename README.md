@@ -74,7 +74,7 @@ The dataset contains coffee trading transactions with the following fields:
 ## Sample Query Outputs
 
 ### Revenue by Country
-![Revenue](screenshots/Revenue by Country.png)
+![Revenue](screenshots/revenue_by_country.png)
 
 ### Profit by Country
 ![Profit](screenshots/Profit by Country.png)
