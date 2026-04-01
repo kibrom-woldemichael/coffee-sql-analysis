@@ -83,7 +83,7 @@ The dataset contains coffee trading transactions with the following fields:
 ![Monthly](screenshots/monthly_revenue.png)
 
 ### Top Customers
-![Revenue](screenshots/top_customers_by revenue.png)
+![Revenue](screenshots/top_customers_by_revenue.png)
 
 ### Average price
 ![Type](screenshots/average_price_by_type.png)
