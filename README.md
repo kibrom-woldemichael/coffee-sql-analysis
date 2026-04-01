@@ -77,13 +77,13 @@ The dataset contains coffee trading transactions with the following fields:
 ![Revenue](screenshots/revenue_by_country.png)
 
 ### Profit by Country
-![Profit](screenshots/Profit by Country.png)
+![Profit](screenshots/profit_by_country.png)
 
 ### Monthly Revenue
-![Monthly](screenshots/Monthly Revenue.png)
+![Monthly](screenshots/monthly_revenue.png)
 
 ### Top Customers
-![Revenue](screenshots/Top Customers by revenue.png)
+![Revenue](screenshots/top_customers_by revenue.png)
 
 ### Average price
-![Type](screenshots/average price by type.png)
+![Type](screenshots/average_price_by_type.png)
